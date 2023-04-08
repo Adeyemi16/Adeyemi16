@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adeyemi16
 - 👀 I’m interested in web designing and app development.
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me owodunnialawal@gmail.com
 
 <!---

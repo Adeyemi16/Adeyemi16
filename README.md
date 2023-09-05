@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adeyemi
 - 👀 I’m interested in web designing and app development.
-- 🌱 I’m currently learning Mern stack for fullstack development
+- 🌱 I’m currently learning Mern stack for full stack development
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me owodunnialawal@gmail.com
 
